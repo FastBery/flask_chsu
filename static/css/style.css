@@ -1,0 +1,44 @@
+/* static/css/style.css */
+
+.my-header {
+    color: #2c3e50;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.blockquote {
+    border-left: 5px solid #ffee00;
+    padding-left: 15px;
+    margin: 20px 0;
+}
+
+.card {
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.uploaded-photo {
+    max-width: 300px;
+    border: 3px solid #3498db;
+    border-radius: 10px;
+}
+
+.navbar-custom {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    background-color: #ffee00;
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.1);
+}
+
